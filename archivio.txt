@@ -1,0 +1,2 @@
+Libro codice Isbn = 9109708519988 autore = Alessia L., titolo = Libro1, anno pubblicazione = 2015, genere = Fantasy, numero pagine = 321
+Rivista codice ISBN = 9626513819072 titolo = Rivista1, anno di pubblicazione = 2015 periodicita = MENSILE, numero pagine = 111
